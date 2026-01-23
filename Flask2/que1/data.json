@@ -1,18 +1,21 @@
 [{
     "id": 1,
     "name": "Alice",
-    "role": "DevOps Engineer"
+    "role": "QA Engineer",
+    "age" : "29"
   },
 
   {
     "id": 2,
     "name": "Pranjal",
-    "role": "Backend Developer"
+    "role": "Backend Developer",
+    "age" : "26"
   },
 
   {"id":3,
    "name": "Hrituja",
-   "role": "QA"
+   "role": "DevOps Engineer",
+   "age" : "25"
   }
 
 ]
