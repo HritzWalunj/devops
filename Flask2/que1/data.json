@@ -1,6 +1,6 @@
 [{
     "id": 1,
-    "name": "Alice",
+    "name": "shubh",
     "role": "QA Engineer",
     "age" : "29"
   },
@@ -8,7 +8,7 @@
   {
     "id": 2,
     "name": "Pranjal",
-    "role": "Backend Developer",
+    "role": "ML Developer",
     "age" : "26"
   },
 
