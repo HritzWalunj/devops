@@ -1,0 +1,4 @@
+FROM node:lts-alpine3.23
+ADD . .
+RUN npm install
+CMD node server.js
